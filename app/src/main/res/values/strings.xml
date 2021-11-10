@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ThreatBall</string>
+
+    <string name="highscore">High Score:</string>
+    <string name="loading_error">Error while loading game</string>
+
+    <string name="help">"Objective:\n\n"
+        "Move the red ball to the blue bordered hole, evading all the obstacles on the way.\n\n"
+        "To move the ball trying changing the orientation of your phone.\n\n"
+        "Once you finish the game, you can continue by clicking on the screen.\n\n\n"
+        "Developer:\n"
+        "Subhadeep Patra."</string>
+
+    <string name="button_play">play</string>
+    <string name="button_help">help</string>
+    <string name="button_ok">ok</string>
+
+    <string name="score">"Score: "</string>
+    <string name="over">"Game Over"</string>
+
+</resources>

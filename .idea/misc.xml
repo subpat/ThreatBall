@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/MyPersonalApps/ThreatBall/app/src/main/res/layout/activity1_main_menu.xml" value="0.16458333333333333" />
+        <entry key="..\:/AndroidStudioProjects/MyPersonalApps/ThreatBall/app/src/main/res/layout/activity2_loading.xml" value="0.16458333333333333" />
+        <entry key="..\:/AndroidStudioProjects/MyPersonalApps/ThreatBall/app/src/main/res/layout/activity4_help.xml" value="0.17864583333333334" />
+        <entry key="..\:/AndroidStudioProjects/MyPersonalApps/ThreatBall/app/src/main/res/layout/activity_main.xml" value="0.18541666666666667" />
+        <entry key="..\:/AndroidStudioProjects/MyPersonalApps/ThreatBall/app/src/main/res/layout/background.xml" value="0.17864583333333334" />
+        <entry key="..\:/AndroidStudioProjects/MyPersonalApps/ThreatBall/app/src/main/res/layout/background_image.xml" value="0.10009057971014493" />
+        <entry key="..\:/Users/Subhadeep/Documents/AndroidStudio/ThreatBall/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.16875" />
+        <entry key="..\:/Users/Subhadeep/Documents/AndroidStudio/ThreatBall/app/src/main/res/drawable/ic_fireball.xml" value="0.16875" />
+        <entry key="..\:/Users/Subhadeep/Documents/AndroidStudio/ThreatBall/app/src/main/res/drawable/ic_launcher_background.xml" value="0.16875" />
+        <entry key="..\:/Users/Subhadeep/Documents/AndroidStudio/ThreatBall/app/src/main/res/layout/activity1_main_menu.xml" value="0.2234375" />
+        <entry key="..\:/Users/Subhadeep/Documents/AndroidStudio/ThreatBall/app/src/main/res/layout/activity2_loading.xml" value="0.2234375" />
+        <entry key="..\:/Users/Subhadeep/Documents/AndroidStudio/ThreatBall/app/src/main/res/layout/activity4_help.xml" value="0.2234375" />
+        <entry key="..\:/Users/Subhadeep/Documents/AndroidStudio/ThreatBall/app/src/main/res/layout/app_bar.xml" value="0.2234375" />
+        <entry key="..\:/Users/Subhadeep/Documents/AndroidStudio/ThreatBall/app/src/main/res/layout/background.xml" value="0.2234375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
